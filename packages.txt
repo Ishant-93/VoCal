@@ -1,0 +1,11 @@
+portaudio19-dev
+python3-all-dev
+python3-setuptools
+python3-wheel
+python3-pip
+libespeak1
+espeak
+alsa-utils
+libasound2-dev
+ffmpeg
+libsndfile1
